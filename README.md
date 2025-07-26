@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Fahad Abul</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [csv upload](https://github.com/fahadAbulSudo/csvUpload)
+🔧 Notable Open Source Contribution
+🧠 Enhanced FunctionTool Schema for LlamaIndex
+Improved automatic type conversion support (e.g., datetime, date) and JSON schema compatibility for OpenAI tool calling. Added tests, doc metadata, and aligned outputs with OpenAI expectations
 
 - 🌱 I’m currently learning **llama index and llms**
-  
-### 🔧 Notable Open Source Contribution
-
-🧠 [Enhanced FunctionTool Schema for LlamaIndex](https://github.com/run-llama/llama_index/pull/19479)  
-Improved automatic type conversion support (e.g., `datetime`, `date`) and JSON schema compatibility for OpenAI tool calling. Added tests, doc metadata, and aligned outputs with OpenAI expectations.
 
 - 👯 I’m looking to collaborate on [csv upload](https://github.com/fahadAbulSudo/csvUpload)
 
