@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Fahad Abul</h1>
 <h3 align="center">A passionate software developer from India</h3>
+## 🎓 Certifications
+- **CKAD – Certified Kubernetes Application Developer** (Linux Foundation)  
+  📅 Valid: 2025-10 → 2027-10  
+  🔗 [Verify Certificate]([https://training.linuxfoundation.org/certification/verify](https://ti-user-certificates.s3.amazonaws.com/e0df7fbf-a057-42af-8a1f-590912be5460/9507cc36-f167-463a-a0f9-b3da8b9d8a3e-fahad-abul-183449af-3841-447d-ad71-99137b3b9d1c-certificate.pdf))  
+  Credential ID: LF-sqsd8ml72u  
 
+**Key Skills:**  
+- Kubernetes Deployments, Jobs, CronJobs, RBAC, ConfigMaps, Secrets  
+- Helm for packaging, Docker for containerization  
+- Resource allocation & troubleshooting workloads  
+- And yes… surviving Vim when VS Code wasn’t allowed 😅
+  
 ### 🔧 Notable Open Source Contribution
 
 🧠 [Enhanced FunctionTool Schema for LlamaIndex](https://github.com/run-llama/llama_index/pull/19479)  
